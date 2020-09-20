@@ -1,4 +1,5 @@
-.Prepare
+cb-ci on traditinionel with docker-compose with nginx reverse proxy
+
 Reuires eitehr DNS CNAME RECORDS for cjoc and masters 
 (f.e cjoc.yourdomain.com and  master.yourdomain.com) 
 OR  an emtry in 
